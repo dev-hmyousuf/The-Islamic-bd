@@ -1,4 +1,4 @@
-# Quran Ayah Player
+# THE ISLAMIC BD
 
 ## Overview
 Quran Ayah Player is a web application that allows users to listen to the verses (Ayahs) of the Quran in Arabic, with translations in Bengali. The application features an intuitive interface, enabling users to easily navigate through different Surahs and listen to the Ayahs.
