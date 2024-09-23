@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Amiri-Quran';
+    src: url('./assets/Fonts/Amiri_Quran/AmiriQuran-Regular.ttf') format('ttf')
+  }
+
+@font-face {
+  font-family: Bangla;
+  src: url(./assets/Fonts/banglaFont/Unicode/bangla1.ttf);
+}
+
+/* Entire scrollbar */
+::-webkit-scrollbar {
+  background-color: #F8EBD5; /* Scrollbar background color */
+  width: 8px;
+}
+
+/* Scrollbar track */
+::-webkit-scrollbar-track {
+  background-color: #f5f5f5;
+}
+
+/* Scrollbar handle */
+::-webkit-scrollbar-thumb {
+  background-color:#d1d5db; /* Scrollbar handle color */
+}
+
+
